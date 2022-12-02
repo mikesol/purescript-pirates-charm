@@ -1,4 +1,10 @@
 {
+	"name": "purescript-pirates-charm",
+	"author": {
+		"name": "Mike Solomon",
+		"email": "mike120982@gmail.com",
+		"url": "https://github.com/mikesol"
+	},
 	"devDependencies": {
 		"spago": "^0.20.9",
 		"purescript": "^0.15.6",
